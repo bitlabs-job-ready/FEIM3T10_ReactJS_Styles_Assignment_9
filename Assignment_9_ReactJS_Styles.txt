@@ -1,0 +1,1 @@
+Create a react component that displays a list of items. Each item should have a different background color based on its category. Use inline styles to apply the background color to each item. 
